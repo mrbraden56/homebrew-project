@@ -2,7 +2,7 @@ class Project < Formula
   desc "Description"
   homepage "https://github.com/mrbraden56/project"
   url "https://github.com/mrbraden56/project/releases/download/20/project-v20.zip"
-  sha256 "e5ccbddff875937df922914fee5916401d5f01ca20832a10f48dffa5ced40abc"
+  sha256 "b6773d82226b2ad49929a00391257363550ecbf330ea2e318339dffd365cf851"
   license ""
 
   depends_on "go" => :build
