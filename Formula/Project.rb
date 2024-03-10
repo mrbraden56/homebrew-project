@@ -17,4 +17,3 @@ class Project < Formula
     system "#{bin}/project", "--version"
   end
 end
-nd
