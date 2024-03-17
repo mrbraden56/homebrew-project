@@ -3,8 +3,8 @@ class Project < Formula
   homepage "https://github.com/mrbraden56/project"
 
   on_macos do
-    url "https://github.com/mrbraden56/project/releases/download/1.0.52/project-v1.0.52.zip"
-    sha256 "da73ac34b7b03c0bb39cc46858d603ffb883313954fbda315c5f8a6b6319efae"
+    url "https://github.com/mrbraden56/project/releases/download/1.0.53/project-v1.0.53.zip"
+    sha256 "e8501580d0fee50493c918d9915f60e2861bb021423438a0a30bb61aaa7595e8"
 
     def install
       bin.install "project"
